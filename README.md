@@ -1,4 +1,4 @@
-File Structure Overview
+  File Structure Overview：
 1. main.py
 The game controller that handles:
 
@@ -32,7 +32,7 @@ Analyzing plant properties
 
 Cataloging discoveries (with BASE/HYBRID labels)
 
-How They Work Together
+  How They Work Together：
 main.py orchestrates the game flow
 
 planet.py provides the environment and plants
